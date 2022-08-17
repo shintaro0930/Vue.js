@@ -1,0 +1,43 @@
+.product {
+  width: 250px;
+}
+
+.product__status {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 4em;
+  height: 4em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #bf0000;
+  color: #ffffff;
+}
+
+.product__body {
+  position: relative;
+}
+
+.product__image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.product__detail {
+  text-align: center;
+}
+
+.product__name {
+  margin: 0.5em 0;
+}
+
+.product__price {
+  margin: 0.5em 0;
+}
+
+.product__shipping {
+  background: #bf0000;
+  color: #ffffff;
+}

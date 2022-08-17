@@ -1,0 +1,18 @@
+.title {
+  font-weight: normal;
+  border-bottom: 2px solid;
+  margin: 15px 0;
+}
+
+.search {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.search__condition {
+  display: flex;
+  align-items: center;
+  grid-gap: 15px;
+}

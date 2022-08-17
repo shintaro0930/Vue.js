@@ -1,0 +1,17 @@
+.container {
+  width: 960px;
+  margin: 0 auto;
+}
+
+.title {
+  font-weight: normal;
+  border-bottom: 2px solid;
+  margin: 15px 0;
+}
+
+.products {
+  display: flex;
+  flex-wrap: wrap;
+  grid-gap: 30px 105px;
+  margin-bottom: 30px;
+}
